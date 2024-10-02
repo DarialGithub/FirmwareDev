@@ -1,1 +1,1 @@
-This is firmware development readme file.
+I can see your repo. Thanks, Logan.
